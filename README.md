@@ -1,4 +1,4 @@
-#Wine Quality Analysis
+# 🍷 Wine Quality Analysis 
 
 Wine is intriguing because of the complexity and layers of its flavour. This project tries to go deeper and understand the attributes and the basic factors that determine the quality of white wine and make it taste a certain way.
 
