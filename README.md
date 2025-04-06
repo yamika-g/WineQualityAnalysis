@@ -24,7 +24,7 @@ I used Python to analyze this dataset, and Jupyter Notebook as my environment. T
 ## 📊 Results
 
 I found that the 3 most significant physicochemical variables that affect the quality of white wine are **volatile acidity**, **sulphates**, and **alcohol content**.
-If density, fixed acidity or volatile acidity is increased, the wine quality score is predicted to decrease. On the other hand, when residual sugar, chlorides, total sulfur dioxide, pH, sulphates, or alcohol content is increased, the wine quality improves.
+If density, fixed acidity or volatile acidity is increased, the wine quality score is predicted to decrease. On the other hand, when residual sugar, chlorides, total sulfur dioxide, pH, sulphates, or alcohol content is increased, the wine quality improves.
 
 The model built was found to predict the quality of white wine fairly well, with an **error rate** of roughly 28%. The model was also tested on a red wine dataset, and predicted the quality with an error rate of 24%.
 
